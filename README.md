@@ -4,9 +4,7 @@ Test GitHub api
 Этот репозиторий написан на языке python, в нём есть код который регистрируется на GitHub и выдаёт username.
 
 ## Установка зависимостей 
-'''bash
-pip install -r requirements.txt
-```
+'''bash pip install -r requirements.txt```
 
 ### Настройка
 1. Откройте файл main.py
