@@ -3,22 +3,22 @@ Test GitHub api
 
 Этот репозиторий написан на языке python, в нём есть код который регистрируется на GitHub и выдаёт username.
 
-# Установка зависимостей 
+## Установка зависимостей 
 '''bash
 pip install -r requirements.txt
 ```
 
-# Настройка
+### Настройка
 1. Откройте файл main.py
 2. найдите строки client_id, client_secret, redirect_url.
 3. Измените параметры на свой настройки.
 
-# Запуск
+#### Запуск
 '''bash
 python main.py
 '''
 
-# Примерный вывод
+** Примерный вывод **
 Follow the link https://github.com/login?***user to start authentication
 Enter just code:
 
