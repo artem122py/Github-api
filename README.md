@@ -11,11 +11,11 @@ Test GitHub api
 2. найдите строки client_id, client_secret, redirect_url.
 3. Измените параметры на свой настройки.
 
-##Запуск
+## Запуск
 ```bash python main.py```
 
 
-** Примерный вывод **
+### Примерный вывод
 Follow the link https://github.com/login?***user to start authentication
 Enter just code:
 
