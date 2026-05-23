@@ -8,7 +8,7 @@ Test GitHub api
 pip install -r requirements.txt
 ```
 
-### Настройка
+# Настройка
 1. Откройте файл main.py
 2. найдите строки client_id, client_secret, redirect_url.
 3. Измените параметры на свой настройки.
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python main.py
 '''
 
-### Примерный вывод
+# Примерный вывод
 Follow the link https://github.com/login?***user to start authentication
 Enter just code:
 
