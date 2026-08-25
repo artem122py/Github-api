@@ -7,7 +7,7 @@ Test GitHub api
 Создан для ознакомления с GitHub API. Не рекомендуется к использованию.
 
 [![Experimental](https://img.shields.io/badge/status-experimental-red.svg)](https://github.com/ваш-username/repo)
-
+[![For fun](https://img.shields.io/badge/purpose-for%20fun-yellow.svg)](https://github.com/ваш-username/repo)
 ## Установка зависимостей 
 ```bash pip install -r requirements.txt```
 
