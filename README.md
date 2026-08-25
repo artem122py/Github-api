@@ -3,6 +3,11 @@ Test GitHub api
 
 Этот репозиторий написан на языке python, в нём есть код который регистрируется на GitHub и выдаёт username.
 
+**Статус:** Экспериментальный / Игрушечный проект.  
+Создан для ознакомления с GitHub API. Не рекомендуется к использованию.
+
+[![Experimental](https://img.shields.io/badge/status-experimental-red.svg)](https://github.com/ваш-username/repo)
+
 ## Установка зависимостей 
 ```bash pip install -r requirements.txt```
 
